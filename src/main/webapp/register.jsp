@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="/static/css/adminlte.min.css">
     <title>Title</title>
 </head>
-<body>
+<body style="background-image: url('https://haycafe.vn/wp-content/uploads/2022/02/Hinh-nen-may-tinh-toi-gian.jpg');">
 <div class="container d-flex justify-content-center ">
     <div class="col-5" style="margin-top: 150px;">
         <!-- Pills navs -->
